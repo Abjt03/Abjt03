@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Abjt03, II yr B.Tech CSE(AIML) student
+- 👀 I’m interested in coding in general and Data Science in the future
+- 🌱 I’m currently learning Python and AIML courses
+- 📫 Any contact through my public email on GITHUB
